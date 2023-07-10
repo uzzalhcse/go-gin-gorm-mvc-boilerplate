@@ -19,3 +19,13 @@
 
 # Go workspace file
 go.work
+
+#
+go-gin-gorm-mvc-boilerplate
+main
+
+# .common files
+.idea
+.DS_Store
+.env
+.vscode
